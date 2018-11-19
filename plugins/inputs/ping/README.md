@@ -48,7 +48,7 @@ apt-get install iputils-ping
   - fields:
     - packets_transmitted (integer)
     - packets_received (integer)
-    - percent_packets_loss (float)
+    - percent_packet_loss (float)
     - average_response_ms (integer)
     - minimum_response_ms (integer)
     - maximum_response_ms (integer)
